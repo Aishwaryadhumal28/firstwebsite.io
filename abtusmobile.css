@@ -1,0 +1,340 @@
+@media screen and ( max-width:767px){
+    #logo {
+        position: relative;
+        left: -9px;
+        width: 223px;
+    }
+    #div_2{
+        background-color: #fff !important;
+    }
+    #nav_2{
+        display: none;
+     }
+    #div_3 {
+        height: auto;
+      background-color: #fff;
+      border: none;
+    }
+    #tog{
+        background-color: #f48000;
+    border: 1px solid black;
+    position: relative;
+    top: -63px;
+    left: 291px;
+}
+#nav_ul {
+    position: relative;
+    left: 0px;
+    background-color: #2b2a29;
+    text-align: center;
+    top: -45px;
+    width: auto;
+}
+
+
+#contain_4{
+    margin-top: 10px;
+}
+#direct_mess {
+    width: 345px;
+    position: relative;
+    left: 20px;
+    font-family: "Montserrat", sans-serif;
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 1.1;
+    box-sizing: border-box;
+}
+
+#p_1 {
+    width: 330px;
+    position: relative;
+    left: 15px;
+    font-family: "Open Sans",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    box-sizing: border-box;
+}
+#p_2 {
+    width: 330px;
+    position: relative;
+    left: 15px;
+    font-family: "Open Sans",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    box-sizing: border-box;
+}
+#abt_deshm {
+    width: 235px;
+    position: relative;
+    left: 15px;
+    font-family: "Montserrat", sans-serif;
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 1.1;
+    box-sizing: border-box;
+}
+#p_3 {
+    width: 330px;
+    position: relative;
+    left: 15px;
+    font-family: "Open Sans",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    box-sizing: border-box;
+}
+#abtim_1 {
+    position: relative;
+    left: 15px;
+    width: 320px;
+    height: 340px;
+}
+#highl {
+    position: relative;
+    top: 59px;
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 1.1;
+    box-sizing: border-box;
+}
+
+#hr3{
+    width: 334px;
+    height: 1px;
+    position: relative;
+    top: 60px;
+    left: 20px;
+}
+
+#viscol_1{
+    margin-top: -130px;
+    margin-left: -25px;
+}
+#well {
+    position: relative;
+    top: 40px;
+    left: 24px;
+    color: #000;
+    font-family: "Montserrat", sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 1.1;
+    box-sizing: border-box;
+    text-align: center;
+    cursor: pointer;
+}
+#well_p{
+    position: relative;
+    top: 50px;
+    left: 25px;
+    text-align: center;
+    font-family: "Open Sans",Helvetica,Arial,sans-serif;
+    box-sizing: border-box;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+}
+#viscol_2{
+    margin-top: 300px;
+    margin-left: -373px;
+}
+#expe_tech{
+    position: relative;
+    top: 45px;
+    left: 25px;
+    color: #000;
+    font-family: "Montserrat", sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 1.1;
+    box-sizing: border-box;
+    text-align: center;
+    cursor: pointer;
+
+}
+#expetech_p{
+    position: relative;
+    top: 50px;
+    left: 25px;
+    text-align: center;
+    font-family: "Open Sans",Helvetica,Arial,sans-serif;
+    box-sizing: border-box;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+}
+#viscol_3{
+    margin-top: 75px;
+    margin-left: -25px;
+
+}
+#test_img {
+    position: relative;
+    top: 5px;
+    left: 80px;
+    width: 250px;
+    height: 200px;
+    object-fit: fill;
+}
+
+#test {
+    position: relative;
+    top: 45px;
+    left: 25px;
+    color: #000;
+    font-family: "Montserrat", sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 1.1;
+    box-sizing: border-box;
+    text-align: center;
+    cursor: pointer;
+}
+
+#test_p{
+    position: relative;
+    top: 52px;
+    left: 25px;
+    text-align: center;
+    font-family: "Open Sans",Helvetica,Arial,sans-serif;
+    box-sizing: border-box;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+}
+#vison_img {
+    position: relative;
+    left: 20px;
+    width: 300px;
+    height: 250px;
+    object-fit: cover;
+}
+#ourvison {
+    margin-left: 20px;
+    font-family: "Montserrat", sans-serif;
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 1.1;
+    box-sizing: border-box;
+}
+
+#our_p{
+    position: relative;
+    top: 10px;
+    left: 10px;
+    font-family: "Open Sans",Helvetica,Arial,sans-serif;
+    box-sizing: border-box;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+}
+
+#mison_img{
+    position:relative;  
+    top: 50px;
+    left: 30px;
+    width: 300px;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 5px;
+}
+#ourmison{
+    margin-top: 75px;
+    margin-left: 25px;
+    font-family: "Montserrat", sans-serif;
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 1.1;
+    box-sizing: border-box;
+}
+#mison_p{
+    width: 300px;
+    position: relative;
+    top: 10px;
+    left: 20px;
+    font-family: "Open Sans",Helvetica,Arial,sans-serif;
+    box-sizing: border-box;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+}
+
+
+
+#con1_footer1{
+    margin-top: 115px;
+    width: 375px;
+    height: auto;
+    background-color: #333;
+}
+
+#footer_link_6 {
+    background-color: #333;
+    position: relative;
+    left: -88px;
+    
+}
+#last_link{
+    list-style: none;
+}
+#last_link a {
+    line-height: 24px;
+    font-size: 15px;
+}
+#folw_icon{
+    position: relative;
+    left: -88px;
+}
+#icon_last{
+    margin-left: 97px;
+}
+#con_mail {
+    position: relative;
+    left: 10px;
+}
+#call_foot{
+    margin-left: 20px;
+}
+#tele {
+    position: relative;
+    top: 8px;
+    left: -16px;
+    font-size: 15px;
+}
+#numbr {
+    position: relative;
+    top: -15px;
+
+    left: 4px;
+    font-size: 16px;
+    box-sizing: border-box;
+    display: block;
+}
+#map {
+    
+    position: relative;
+    left: -22px;
+}
+#map_ic{
+    position: relative;
+    left: 27px;
+}
+#location {
+        width: 284px;
+        position: relative;
+        left: 51px;
+    }
+    #foot_right{
+        height: 60px;
+        background-color: #111111;
+        
+    
+        
+    }
+}
+

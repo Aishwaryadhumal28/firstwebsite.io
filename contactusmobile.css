@@ -1,0 +1,233 @@
+@media screen and ( max-width:767px){
+    #logo {
+        position: relative;
+        left: -9px;
+        width: 223px;
+    }
+    #div_2{
+        background-color: #fff !important;
+    }
+    #nav_2{
+        display: none;
+     }
+    #div_3 {
+        height: auto;
+      background-color: #fff;
+      border: none;
+    }
+    #tog{
+        background-color: #f48000;
+    border: 1px solid black;
+    position: relative;
+    top: -63px;
+    left: 291px;
+}
+#nav_ul {
+    position: relative;
+    left: 0px;
+    background-color: #2b2a29;
+    text-align: center;
+    top: -45px;
+    width: auto;
+}
+
+
+#send_qu {
+    font-family: "Montserrat", sans-serif;
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 1.1;
+    box-sizing: border-box;
+    position: relative;
+    left: 0px;
+    top: 65px;
+}
+
+#form {
+    position: relative;
+    /* left: 273px; */
+    top: 140px;
+    left: 8px;
+    width: 360px;
+    ;
+}
+
+.form-control {
+    width: 335px;
+}
+#label_1 {
+    position: relative;
+    left: 0px; 
+     top: 0px; 
+    
+    font-family: "Open Sans",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    cursor: default;
+    box-sizing: border-box;
+    min-height: 1px;
+    float: left;
+}
+.mb-4 {
+    position: relative;
+    top: 0px;
+}
+#label_2 {
+    position: relative;
+    left: 0px;
+    top: 0px; 
+    font-family: "Open Sans",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    cursor: default;
+    box-sizing: border-box;
+    min-height: 1px;
+    float: left;
+}
+.mb-5 {
+    position: relative;
+    top: 0px;
+}
+#label_3 {
+    position: relative;
+    left: 0px;
+    top: 0px;
+    font-family: "Open Sans",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    cursor: default;
+    box-sizing: border-box;
+    min-height: 1px;
+    float: left;
+}
+
+.mb-6 {
+    position: relative;
+    top: -30px;
+}
+#label_4 {
+    position: relative;
+    left: 0px;
+    top: 0px; 
+    font-family: "Open Sans",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    cursor: default;
+    box-sizing: border-box;
+    min-height: 1px;
+    float: left;
+}
+#but_sub {
+    position: relative;
+    top: 150px;
+    left: -10px;
+}
+/*#midcon_locat{
+    margin-left: -20px;
+}*/
+
+#midcon_locat {
+    margin-left: -30px;
+    margin-top: 220px;
+}
+#box_1 {
+    width: 350px;
+    height: 245px;
+    margin-left: 30px;
+    background-color: #f8fdff;
+    text-align: center;
+    border: 1px solid #ececec;
+}
+#box_2 {
+    width: 350px;
+    height: 245px;
+    margin-top: 20px;
+    margin-left: 30px;
+    background-color: #f8fdff;
+    text-align: center;
+    border: 1px solid #ececec;
+}
+#box_3 {
+    width: 350px;
+    height: 245px;
+    margin-top: 20px;
+    margin-left: 30px;
+    background-color: #f8fdff;
+    text-align: center;
+    border: 1px solid #ececec;
+}
+
+
+#con1_footer1{
+    margin-top: 115px;
+    width: 375px;
+    height: auto;
+    background-color: #333;
+}
+
+#footer_link_6 {
+    background-color: #333;
+    position: relative;
+    left: -88px;
+    
+}
+#last_link{
+    list-style: none;
+}
+#last_link a {
+    line-height: 24px;
+    font-size: 15px;
+}
+#folw_icon{
+    position: relative;
+    left: -88px;
+}
+#icon_last{
+    margin-left: 97px;
+}
+#con_mail {
+    position: relative;
+    left: 10px;
+}
+#call_foot{
+    margin-left: 20px;
+}
+#tele {
+    position: relative;
+    top: 8px;
+    left: -16px;
+    font-size: 15px;
+}
+#numbr {
+    position: relative;
+    top: -15px;
+
+    left: 4px;
+    font-size: 16px;
+    box-sizing: border-box;
+    display: block;
+}
+#map {
+    
+    position: relative;
+    left: -22px;
+}
+#map_ic{
+    position: relative;
+    left: 27px;
+}
+#location {
+        width: 284px;
+        position: relative;
+        left: 51px;
+    }
+#foot_right{
+    height: 60px;
+    background-color: #111111;
+}
+
+}

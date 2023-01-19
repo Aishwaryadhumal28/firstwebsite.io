@@ -1,0 +1,30 @@
+@media screen and (min-width:767px) and (max-width:1023px){
+    #div1 {
+    background-color: #f48000;
+    height: 50px;
+    width: 839px;
+}
+#div_2{
+    width: 839px;
+}
+#div_2_col1{
+    position: relative;
+    left: -60px;
+}
+#div_2_col2{
+    position: relative;
+    left: -4px;
+}
+#div_2_col3{
+    position: relative;
+    left: -11px;
+}
+#div_3 {
+    height: 45px;
+    background-color: #2b2a29;
+    border-bottom: 3px solid #fbbe07;
+    width: 839px;
+}
+
+
+}

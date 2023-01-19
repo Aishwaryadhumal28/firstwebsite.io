@@ -1,0 +1,118 @@
+@media screen and ( max-width:767px){
+    #logo {
+        position: relative;
+        left: -9px;
+        width: 223px;
+    }
+    #div_2{
+        background-color: #fff !important;
+    }
+    #nav_2{
+        display: none;
+     }
+    #div_3 {
+        height: auto;
+      background-color: #fff;
+      border: none;
+    }
+    #tog{
+        background-color: #f48000;
+    border: 1px solid black;
+    position: relative;
+    top: -63px;
+    left: 291px;
+}
+#nav_ul {
+    position: relative;
+    left: 0px;
+    background-color: #2b2a29;
+    text-align: center;
+    top: -45px;
+    width: auto;
+}
+#video_contain{
+    margin-left:0px;
+}
+#vid_1{
+    margin-left: 0px;
+}
+#video_con1{
+    margin-left: 0px;
+}
+#video_con2{
+    margin-left: 0px;
+}
+#video_con3{
+    margin-left: 0px;
+}
+
+
+
+#con1_footer1{
+    margin-top: 115px;
+    width: 375px;
+    height: auto;
+    background-color: #333;
+}
+
+#footer_link_6 {
+    background-color: #333;
+    position: relative;
+    left: -88px;
+    
+}
+#last_link{
+    list-style: none;
+}
+#last_link a {
+    line-height: 24px;
+    font-size: 15px;
+}
+#folw_icon{
+    position: relative;
+    left: -88px;
+}
+#icon_last{
+    margin-left: 97px;
+}
+#con_mail {
+    position: relative;
+    left: 10px;
+}
+#call_foot{
+    margin-left: 20px;
+}
+#tele {
+    position: relative;
+    top: 8px;
+    left: -16px;
+    font-size: 15px;
+}
+#numbr {
+    position: relative;
+    top: -15px;
+
+    left: 4px;
+    font-size: 16px;
+    box-sizing: border-box;
+    display: block;
+}
+#map {
+    
+    position: relative;
+    left: -22px;
+}
+#map_ic{
+    position: relative;
+    left: 27px;
+}
+#location {
+    width: 284px;
+    position: relative;
+    left: 51px;
+    }
+#foot_right{
+    height: 60px;
+    background-color: #111111;
+}
+}    
